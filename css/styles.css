@@ -1,3 +1,19 @@
 *{
 	font-family: Helvetica;
+	font-size: 72px;
+	color: magenta;
+}
+
+body{
+	background-color: #66cccc;
+}
+
+#banner{
+	-webkit-transform: rotate(72deg);
+	-moz-transform: rotate(72deg);
+	transform: rotate(72deg);
+}
+
+#boat{
+	padding-right: 10px;
 }
